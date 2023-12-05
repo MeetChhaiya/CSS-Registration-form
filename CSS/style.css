@@ -1,0 +1,131 @@
+
+.main{
+    box-shadow: 5px 5px 5px rgba(177,177,177,255);
+    border: 3px solid rgba(215,215,215,255);
+    border-radius: 15px;
+    width: 1400px;
+    height: 650px;
+    margin-left: 270px;
+    margin-top: 150px;
+    display: flex;
+}
+
+body{
+    background-color: white;
+}
+
+.fh{
+    width: 50%;
+}
+
+.sh{
+    width: 67%;
+}
+
+
+.signup{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 55%;
+    margin-top: 9%;
+}
+
+/* .name{
+    height: 40px;
+    width: 470px;
+    margin-top: 18px;
+}
+
+.iname{
+    margin-left: 20px;
+    margin-top: 18px;
+}
+
+.email{
+
+
+}
+
+.iemail{
+
+} */
+
+.cm{
+    display: flex;
+}
+
+.logo{
+    margin-left: 20px;
+    height: 350px;
+}
+
+.img{
+    margin-top: 9px;
+    width: 790px;
+    height: 640px;
+
+}
+
+.first{
+    font-family: sans-serif;
+    padding-left: 10px;
+    font-size: 18px;
+    height: 45px;
+    width: 450px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+.second{
+    padding-left: 10px;
+    font-size: 18px;
+    height: 45px;
+    width: 450px;
+    margin-bottom: 40px;
+}
+
+.four{
+    padding-left: 10px;
+    font-size: 18px;
+    height: 45px;
+    width: 450px;
+}
+
+.cb{
+    margin-left: 96px;
+    margin-top: -20px;
+}
+
+.ag{
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: -6px;
+    margin-left: 10px ;
+}
+
+.tos{
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: -6px;
+    margin-left: 5px;
+    color: blue
+}
+
+.regd{
+    background-color: rgba(0,0,245,255);
+    margin-left: 230px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.reg{
+    color: white;
+    font-family: sans-serif;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+
